@@ -1,0 +1,13 @@
+c:\users\mariano\documents\visual studio 2013\Projects\MAC\MAC\bin\Debug\MAC.exe.config
+c:\users\mariano\documents\visual studio 2013\Projects\MAC\MAC\obj\Debug\MAC.csprojResolveAssemblyReference.cache
+c:\users\mariano\documents\visual studio 2013\Projects\MAC\MAC\obj\Debug\MAC.Properties.Resources.resources
+c:\users\mariano\documents\visual studio 2013\Projects\MAC\MAC\obj\Debug\MAC.csproj.GenerateResource.Cache
+c:\users\mariano\documents\visual studio 2013\Projects\MAC\MAC\bin\Debug\MAC.exe
+c:\users\mariano\documents\visual studio 2013\Projects\MAC\MAC\bin\Debug\MAC.pdb
+c:\users\mariano\documents\visual studio 2013\Projects\MAC\MAC\obj\Debug\MAC.exe
+c:\users\mariano\documents\visual studio 2013\Projects\MAC\MAC\obj\Debug\MAC.pdb
+c:\users\mariano\documents\visual studio 2013\Projects\MAC\MAC\obj\Debug\MAC.FrmObtenerDatosparaHabilitar.resources
+c:\users\mariano\documents\visual studio 2013\Projects\MAC\MAC\obj\Debug\MAC.FrmPruebaBD.resources
+C:\Users\User\Desktop\MAC\MAC\bin\Debug\MAC.exe.config
+C:\Users\User\Desktop\MAC\MAC\obj\Debug\MAC.exe
+C:\Users\User\Desktop\MAC\MAC\obj\Debug\MAC.pdb

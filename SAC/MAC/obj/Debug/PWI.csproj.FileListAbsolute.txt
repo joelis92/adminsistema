@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\MAC\MAC\bin\Debug\MAC.exe.config
+C:\Users\User\Desktop\MAC\MAC\obj\Debug\MAC.exe
+C:\Users\User\Desktop\MAC\MAC\obj\Debug\MAC.pdb

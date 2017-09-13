@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWI", "MAC\PWI.csproj", "{33823395-1E9B-4BA8-8506-DFF93B2CC344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFL", "WindowsFormsApplication1\WFL.csproj", "{54F6C8F5-A34C-436B-9ABA-736452701259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRL", "BRL\BRL.csproj", "{8A9B16A5-7EAC-4DDC-B78C-057FCA286F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTL", "CapaDtl\DTL.csproj", "{AE610CFB-1DAD-4F27-B100-56F9DFC7E961}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Imagenes", "Imagenes", "{6F433EE0-13DC-47F3-847D-5B50BEDECBE5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TP-Spinedi\PruebaCapas\PruebaCapas\Imagenes\LoginRed.jpg = ..\..\..\..\TP-Spinedi\PruebaCapas\PruebaCapas\Imagenes\LoginRed.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33823395-1E9B-4BA8-8506-DFF93B2CC344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33823395-1E9B-4BA8-8506-DFF93B2CC344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33823395-1E9B-4BA8-8506-DFF93B2CC344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33823395-1E9B-4BA8-8506-DFF93B2CC344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F6C8F5-A34C-436B-9ABA-736452701259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F6C8F5-A34C-436B-9ABA-736452701259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F6C8F5-A34C-436B-9ABA-736452701259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F6C8F5-A34C-436B-9ABA-736452701259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A9B16A5-7EAC-4DDC-B78C-057FCA286F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9B16A5-7EAC-4DDC-B78C-057FCA286F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9B16A5-7EAC-4DDC-B78C-057FCA286F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9B16A5-7EAC-4DDC-B78C-057FCA286F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE610CFB-1DAD-4F27-B100-56F9DFC7E961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE610CFB-1DAD-4F27-B100-56F9DFC7E961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE610CFB-1DAD-4F27-B100-56F9DFC7E961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE610CFB-1DAD-4F27-B100-56F9DFC7E961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
