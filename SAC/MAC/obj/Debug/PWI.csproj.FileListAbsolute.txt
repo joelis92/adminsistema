@@ -1,3 +1,12 @@
 C:\Users\User\Desktop\MAC\MAC\bin\Debug\MAC.exe.config
 C:\Users\User\Desktop\MAC\MAC\obj\Debug\MAC.exe
 C:\Users\User\Desktop\MAC\MAC\obj\Debug\MAC.pdb
+C:\Sistema de Gestion Administrativa\SAC\MAC\bin\Debug\MAC.exe.config
+C:\Sistema de Gestion Administrativa\SAC\MAC\obj\Debug\MAC.exe
+C:\Sistema de Gestion Administrativa\SAC\MAC\obj\Debug\MAC.pdb
+C:\Sistema de Gestion Administrativa\SAC\MAC\obj\Debug\PWI.csprojResolveAssemblyReference.cache
+C:\Sistema de Gestion Administrativa\SAC\MAC\obj\Debug\MAC.FrmLogin.resources
+C:\Sistema de Gestion Administrativa\SAC\MAC\obj\Debug\MAC.FrmObtenerDatosparaHabilitar.resources
+C:\Sistema de Gestion Administrativa\SAC\MAC\obj\Debug\MAC.FrmPruebaBD.resources
+C:\Sistema de Gestion Administrativa\SAC\MAC\obj\Debug\MAC.Properties.Resources.resources
+C:\Sistema de Gestion Administrativa\SAC\MAC\obj\Debug\PWI.csproj.GenerateResource.Cache
